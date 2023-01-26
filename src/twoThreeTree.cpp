@@ -1,4 +1,4 @@
-#include <iostream> 
+#include <stdio.h>
 
 int compare(int x, two_three_ptr t);
 void new_root(two_three_ptr lt, int y, two_three_ptr mt);

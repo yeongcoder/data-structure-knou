@@ -1,4 +1,4 @@
-#include <iostream>
+#include <stdio.h>
 
 /*큐 생성*/
 #define QUEUE_SIZE 5

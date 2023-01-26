@@ -1,4 +1,5 @@
-#include <iostream>
+#include <stdio.h>
+
 #define STACK_SIZE 10
 
 /*스택 생성*/

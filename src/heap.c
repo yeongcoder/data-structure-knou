@@ -1,4 +1,4 @@
-#include <iostream>
+#include <stdio.h>
 
 #define MAX_DATA 7
 

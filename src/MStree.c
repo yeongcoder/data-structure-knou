@@ -1,4 +1,4 @@
-#include <iostream>    
+#include <stdio.h>  
 
 /*m원탐색트리의 노드*/
 struct mnode {

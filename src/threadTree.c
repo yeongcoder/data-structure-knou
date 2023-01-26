@@ -1,4 +1,4 @@
-#include <iostream>
+#include <stdio.h>
 
 /*
 스레드 트리 구현방법
